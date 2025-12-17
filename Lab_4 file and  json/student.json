@@ -1,0 +1,14 @@
+{
+    "student": [
+        {
+            "Fname": "getahun",
+            "Lname": "fikade",
+            "age": 22,
+            "skill": [
+                "php",
+                "react",
+                "algorithm"
+            ]
+        }
+    ]
+}

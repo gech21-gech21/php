@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+   <student>
+      <Fname>getahun</Fname>
+      <Lname>fikade</Lname>
+      <age>22</age>
+      <skills>
+         <skill>php</skill>
+         <skill>react</skill>
+         <skill>algorithm</skill>
+      </skills>
+   </student>
+</students>
